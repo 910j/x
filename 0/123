@@ -5,8 +5,8 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: Taiwan-Hinet-DynamicA-x0, server: tw01.v2netapp.com, port: 10088, type: vmess, uuid: 6E08CD35-0E96-43AF-2154-F22EE8BB3C31, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ray, headers: {Host: tw01.v2netapp.com}}}
-  - {name: Taiwan-Hinet-DynamicB-x0, server: tw04.v2netapp.com, port: 8303, type: vmess, uuid: 6E08CD35-0E96-43AF-2154-F22EE8BB3C31, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ray, headers: {Host: tw04.v2netapp.com}}}
+  - {name: Taiwan-Hinet-DynamicA-x0, server: t1.v2tapp.com, port: 10088, type: vmess, uuid: 6E08CD35-0E96-43AF-2154-F22EE8BB3C31, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ray, headers: {Host: tw01.v2netapp.com}}}
+  - {name: Taiwan-Hinet-DynamicB-x0, server: 04.v2tapp.com, port: 8303, type: vmess, uuid: 6E08CD35-0E96-43AF-2154-F22EE8BB3C31, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ray, headers: {Host: tw04.v2netapp.com}}}
 proxy-groups:
   - name: "\U0001F680 节点选择"
     type: select
