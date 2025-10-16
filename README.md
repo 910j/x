@@ -32,6 +32,8 @@ https://api-hx.1kmei.com/c1f8e239a7d460b5e9a3c72fd1846eba?token=fbc4d540d72c96f7
 
 邀请码：ikNvZoiU
 
+8折优惠码：hongxing666
+
 https://hx666.02000.xin/auth/register?code=ikNvZoiU
 
 https://tkbaohe.com/swgj/ 
