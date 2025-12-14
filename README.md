@@ -19,7 +19,20 @@ https://github.com/alantang1977/X
 
 https://github.com/yoursmile66/TVBox
 
+TVBOX  资源：
 
+https://bgithub.xyz/alantang1977/X  
+
+单：https://bgithub.xyz/alantang1977/X/blob/main/aTV.json
+
+多：https://bgithub.xyz/alantang1977/X/blob/main/if.json
+
+采集单：https://bgithub.xyz/alantang1977/X/blob/main/%E9%87%87%E9%9B%86.json
+
+
+南风： https://bgithub.xyz/yoursmile66/TVBox
+
+https://bgithub.xyz/yoursmile66/TVBox/blob/main/XC.json
 
 
 
