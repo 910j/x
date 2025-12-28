@@ -9,6 +9,9 @@ https://bgithub.xyz/wmjordan/PDFPatcher
 # OpenWrt/OpenClash:
 
 
+clash各版本：https://wiki.metacubex.one/startup/client/client/#ios
+
+
 openclash 配置：https://jameslifeblog.com/openwrt-openclash2025
 
 openclash版本安装：https://github.com/vernesong/Openclash/releases
