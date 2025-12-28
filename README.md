@@ -18,6 +18,9 @@ openclash版本安装：https://github.com/vernesong/Openclash/releases
 
 # TVBOX 
 
+
+ok视频APK：https://github.com/lystv/fmapp/tree/main/apk
+
 https://github.com/alantang1977/X
 
 https://github.com/yoursmile66/TVBox
