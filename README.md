@@ -26,15 +26,15 @@ https://github.com/woshishiq1/hipy-drpy/blob/main/MyLeiH.txt
 
 小猫影视，https://github.com/waifu-project/movie?tab=readme-ov-file 
     
-    MusicFree音乐，https://github.com/maotoumao/MusicFree
+MusicFree音乐，https://github.com/maotoumao/MusicFree
     
-    lx-music，https://github.com/lyswhut/lx-music-mobile；
+lx-music，https://github.com/lyswhut/lx-music-mobile；
     
-    uz影视，https://github.com/YYDS678/uzVideo?tab=readme-ov-file
+uz影视，https://github.com/YYDS678/uzVideo?tab=readme-ov-file
     
-    OK影视，https://github.com/lystv/fmapp
+OK影视，https://github.com/lystv/fmapp
     
-    电视直播点播源更新工具，https://cnb.cool/junchao.tang/jtv
+电视直播点播源更新工具，https://cnb.cool/junchao.tang/jtv
 
 
 
