@@ -22,6 +22,21 @@ openclash版本安装：https://github.com/vernesong/Openclash/releases
 https://github.com/woshishiq1/hipy-drpy/blob/main/MyLeiH.txt
 
 
+# 影视播放器：
+
+小猫影视，https://github.com/waifu-project/movie?tab=readme-ov-file 
+    
+    MusicFree音乐，https://github.com/maotoumao/MusicFree
+    
+    lx-music，https://github.com/lyswhut/lx-music-mobile；
+    
+    uz影视，https://github.com/YYDS678/uzVideo?tab=readme-ov-file
+    
+    OK影视，https://github.com/lystv/fmapp
+    
+    电视直播点播源更新工具，https://cnb.cool/junchao.tang/jtv
+
+
 
 # TVBOX 
 
