@@ -16,6 +16,13 @@ openclash 配置：https://jameslifeblog.com/openwrt-openclash2025
 
 openclash版本安装：https://github.com/vernesong/Openclash/releases
 
+# 各类资源订阅：
+
+
+https://github.com/woshishiq1/hipy-drpy/blob/main/MyLeiH.txt
+
+
+
 # TVBOX 
 
 
