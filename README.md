@@ -19,6 +19,8 @@ openclash版本安装：https://github.com/vernesong/Openclash/releases
 # 各类资源订阅：
 
 
+https://raw.githubusercontent.com/910j/x/refs/heads/main/m3u/181818.txt
+
 https://github.com/woshishiq1/hipy-drpy/blob/main/MyLeiH.txt
 
 
