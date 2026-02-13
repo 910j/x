@@ -26,6 +26,8 @@ https://github.com/woshishiq1/hipy-drpy/blob/main/MyLeiH.txt
 
 # 影视播放器：
 
+Cinetry播放器，https://github.com/gstory0404/Cinetry
+
 小猫影视，https://github.com/waifu-project/movie?tab=readme-ov-file 
     
 MusicFree音乐，https://github.com/maotoumao/MusicFree
