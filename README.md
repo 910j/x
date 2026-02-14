@@ -42,6 +42,9 @@ OK影视，https://github.com/lystv/fmapp
 
 直播大佬源：https://github.com/mursor1985/LIVE
 
+库佬：https://github.com/Jsnzkpg/
+
+
 # TVBOX 
 
 
