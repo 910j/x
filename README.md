@@ -26,6 +26,11 @@ https://github.com/woshishiq1/hipy-drpy/blob/main/MyLeiH.txt
 
 # 影视播放器：
 
+PeekPili：https://github.com/ingriddaleusag-dotcom/PeekPiliRelease     
+
+EchoTV：https://dogpan.com/home?path=cloudreve%3A%2F%2FkRnNs6%40share
+
+
 Cinetry播放器，https://github.com/gstory0404/Cinetry
 
 小猫影视，https://github.com/waifu-project/movie?tab=readme-ov-file 
