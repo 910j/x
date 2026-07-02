@@ -9,6 +9,8 @@ https://bgithub.xyz/wmjordan/PDFPatcher
 # OpenWrt/OpenClash:
 
 
+斐讯N1 iStoreOS配置：https://github.com/tohsaka888/n1_openwrt_config
+
 clash各版本：https://wiki.metacubex.one/startup/client/client/#ios
 
 
