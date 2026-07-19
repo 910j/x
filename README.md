@@ -4,7 +4,9 @@ https://github.com/wmjordan/PDFPatcher
 
 https://bgithub.xyz/wmjordan/PDFPatcher
 
+# 斐讯N1 iStoreOS Nikki配置
 
+https://docs.reiz.link/openwrt/nikki/
 
 # OpenWrt/OpenClash:
 
