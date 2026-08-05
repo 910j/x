@@ -34,6 +34,12 @@ https://raw.githubusercontent.com/910j/x/refs/heads/main/m3u/181818.txt
 https://github.com/woshishiq1/hipy-drpy/blob/main/MyLeiH.txt
 
 
+
+
+# TvBOX资源（每日更新）：
+
+https://github.com/youhunwl/TVAPP/
+
 # 影视播放器：
 
 
