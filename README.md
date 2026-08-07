@@ -24,6 +24,8 @@ clash各版本：https://wiki.metacubex.one/startup/client/client/#ios
 
 openclash 配置：https://jameslifeblog.com/openwrt-openclash2025
 
+https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenClash-设置方案
+
 openclash版本安装：https://github.com/vernesong/Openclash/releases
 
 # 各类资源订阅：
