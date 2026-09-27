@@ -20,6 +20,12 @@ https://github.com/cymcn/N1-iStoreOS
 
 # OpenWrt/OpenClash:
 
+配置教程2026:
+
+https://blog.gy63.com/index.php?c=show&id=615
+
+https://blog.gy63.com/index.php?c=show&id=654
+
 
 斐讯N1 iStoreOS配置：https://github.com/tohsaka888/n1_openwrt_config
 
