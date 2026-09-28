@@ -38,6 +38,13 @@ https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenClash-设置方�
 
 openclash版本安装：https://github.com/vernesong/Openclash/releases
 
+
+
+# Padavan-clash
+
+https://github.com/910j/Padavan-clash
+
+
 # 各类资源订阅：
 
 
