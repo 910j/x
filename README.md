@@ -44,6 +44,9 @@ openclash版本安装：https://github.com/vernesong/Openclash/releases
 
 https://github.com/910j/Padavan-clash
 
+# 各类TVBOX影视/OK影视：
+
+https://github.com/youhunwl/TVAPP
 
 # 各类资源订阅：
 
