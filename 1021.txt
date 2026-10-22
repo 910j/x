@@ -1,0 +1,102 @@
+
+整理日期：2026-10-21
+⚠️ 接口均为网络公开资源，免费分享，请勿倒卖；接口随时可能失效，尽快自取
+
+━━━━━━━━━━━━━━━━━━
+⭐ 博主推荐（亲测可用，91台：央视+主流卫视）
+━━━━━━━━━━━━━━━━━━
+1. best-fan 全国频道（直连）
+https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8
+2. best-fan 全国频道（代理，GitHub 打不开时用）
+https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8
+
+━━━━━━━━━━━━━━━━━━
+一、点播接口（JSON）
+填入位置：设置 → 配置地址 / 影视源
+━━━━━━━━━━━━━━━━━━
+
+✅ 实测可用（2026-10-21 验证）
+1. 匿名多仓（推荐）
+https://12586.kstore.space/123.json
+2. 南风 XC（GitHub 持续维护）
+https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
+3. 香雅情 XYQ
+https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+4. 高天流云 0828
+https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
+5. 高天流云 0827
+https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
+6. FongMi 官方
+https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+7. 运输车 ysc
+https://weixine.net/ysc.json
+8. 影迷大全
+https://www.yingm.cc/dm/dm.json
+9. 老刘备
+https://raw.liucn.cc/box/m.json
+10. 俊佬接口
+http://home.jundie.top:81/top98.json
+11. dxawi（持续维护）
+https://dxawi.github.io/0/0.json
+12. 小苹果他爹
+https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json
+13. liu673cn
+https://liu673cn.github.io/box/m.json
+14. 少儿频道
+https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+
+🌐 需国内网络（国外 IP 打不开，国内一般正常）
+15. 饭太硬（主线，最稳）
+http://www.饭太硬.com/tv
+16. 饭太硬（多线）
+http://饭太硬.top/tv
+17. 饭太硬（备用）
+http://www.饭太硬.net/tv
+18. 饭太硬（备用）
+http://www.饭太硬.xyz/tv
+19. 巧技
+http://cdn.qiaoji8.com/tvbox.json
+20. OK 佬
+http://ok321.top/ok
+21. 多多
+https://yydsys.top/duo/v.json
+22. 欧歌
+http://tv.nxog.top/m/
+23. 欧歌单仓
+https://xn--anna-wn6lw489o.v.nxog.top/nxog/oua.php
+24. 吾爱
+http://52bsj.vip:98/wuai
+25. 小雅 JS
+http://101.34.67.237/config/3
+26. meowcf
+https://freed.yuanhsing.cf/TVBox/meowcf.json
+
+━━━━━━━━━━━━━━━━━━
+二、直播源（m3u / txt）
+填入位置：设置 → 直播源
+━━━━━━━━━━━━━━━━━━
+1. 国内央视卫视 TXT（每日自动更新）
+https://live.zbds.top/tv/iptv4.txt
+2. 国内央视卫视 M3U（带台标 + 节目单 EPG）
+https://live.zbds.top/tv/iptv4.m3u
+3. IPv6 专用
+https://live.zbds.top/tv/iptv6.txt
+4. 范明明 IPv6
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+5. 国际开源 - 中国频道
+https://iptv-org.github.io/iptv/countries/cn.m3u
+6. 国际开源 - 全量（200+ 国家）
+https://iptv-org.github.io/iptv/index.m3u
+7. Free-TV 精选（短而精）
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+━━━━━━━━━━━━━━━━━━
+三、EPG 节目单（可选）
+填入位置：设置 → EPG
+━━━━━━━━━━━━━━━━━━
+1. 范明明 EPG
+https://live.fanmingming.com/e.xml
+
+━━━━━━━━━━━━━━━━━━
+使用说明
+━━━━━━━━━━━━━━━━━━
