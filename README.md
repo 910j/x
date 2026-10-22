@@ -48,6 +48,8 @@ https://github.com/910j/Padavan-clash
 
 https://github.com/youhunwl/TVAPP
 
+源（每日更新：）https://github.com/laoma528/awesome-zhuiju-free
+
 # 各类资源订阅：
 
 https://github.com/laoma528/awesome-zhuiju-free
