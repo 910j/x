@@ -50,6 +50,7 @@ https://github.com/youhunwl/TVAPP
 
 # 各类资源订阅：
 
+https://github.com/laoma528/awesome-zhuiju-free
 
 https://raw.githubusercontent.com/910j/x/refs/heads/main/m3u/181818.txt
 
